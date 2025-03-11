@@ -1,0 +1,14 @@
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\bin\Debug\net9.0\create do and while iteration loops.exe
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\bin\Debug\net9.0\create do and while iteration loops.deps.json
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\bin\Debug\net9.0\create do and while iteration loops.runtimeconfig.json
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\bin\Debug\net9.0\create do and while iteration loops.dll
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\bin\Debug\net9.0\create do and while iteration loops.pdb
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\obj\Debug\net9.0\create do and while iteration loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\obj\Debug\net9.0\create do and while iteration loops.AssemblyInfoInputs.cache
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\obj\Debug\net9.0\create do and while iteration loops.AssemblyInfo.cs
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\obj\Debug\net9.0\create do and while iteration loops.csproj.CoreCompileInputs.cache
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\obj\Debug\net9.0\create do and while iteration loops.dll
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\obj\Debug\net9.0\refint\create do and while iteration loops.dll
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\obj\Debug\net9.0\create do and while iteration loops.pdb
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\obj\Debug\net9.0\create do and while iteration loops.genruntimeconfig.cache
+D:\Kodehode\koding\C#\microsoft learn\create do and while iteration loops\obj\Debug\net9.0\ref\create do and while iteration loops.dll

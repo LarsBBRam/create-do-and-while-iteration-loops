@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("create do and while iteration loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76b1612e675066db84488fe074e7e0b3d9cea2a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("create do and while iteration loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("create do and while iteration loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
